@@ -7,13 +7,6 @@ Repository for the BYU data science club
 * 
 
 ### File Structure
-* bnp-submissions
-    * contains only csv submission files 
-* bnp-code
-    * contains code files
-    * please no large csv files. links to datasets should be placed in the README.md file under the heading "Datasets"
-    * each code file corresponds to a submission in bnp-submissions
-    * at the beginning of each file, include a comment with the name of the corresponding submission. If the code is a work-in-progress, and no submission has been made, put "no submission made".
 * data-science-tools 
     * includes code snippets demonstrating data science techniques
     * this includes material from forums and personal projects that would be useful for the group.
