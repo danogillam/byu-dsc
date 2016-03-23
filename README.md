@@ -13,10 +13,5 @@ Repository for the BYU data science club
     * filetypes may include: jupyter notebooks, python, pdf, powerpoint, md, etc
     * be sure to include site links within your code for sources
 
-### Datasets
-* [BNPsample_submission.csv](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/download/sample_submission.csv.zip)
-* [BNP test.csv](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/download/test.csv.zip)
-* [BNP train.csv](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/download/train.csv.zip)
-
 ### Contributors
 * Dano Gillam
